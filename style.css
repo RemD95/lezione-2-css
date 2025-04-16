@@ -26,8 +26,9 @@
 }
 
 .pad{
-    padding: 25%;
+    padding: 5%;
     margin: 5px;
+    border: 5px solid blue;
 }
 /**Analisi:**/
 /*Le differenze che si notano sono principalmente nelle dimensioni del carattere dei due paragrafi.*/
