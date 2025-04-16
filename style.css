@@ -1,5 +1,8 @@
 
-
+@import url(./root.css);
+*{
+    color:var(--primary-color)
+}
 
 .divbox {
     width: 2%;
