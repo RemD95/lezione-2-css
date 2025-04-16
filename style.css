@@ -1,22 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
 
-}
 
-.container{
-    width: 100%;
-    height: 400px;
-    background-color:gold ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .divbox {
-    margin: 10px;
-    width: 50%;
-    height: 50%;
-    background-color: aqua;
+    width: 2%;
+    height: 20%;
+    padding: 10%;
+    border: 5px solid black;
 }
 
 .pxbox {
