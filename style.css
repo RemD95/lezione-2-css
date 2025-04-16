@@ -13,7 +13,15 @@
     align-items: center;
 }
 .divbox {
-    width: 150px;
-    height: 150px;
+    margin: 10px;
+    width: 50%;
+    height: 50%;
     background-color: aqua;
+}
+
+.pxbox {
+    margin: 10px;
+    width: 150px;        
+    height: 150px;
+    background-color: black;
 }
