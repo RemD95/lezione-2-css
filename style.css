@@ -7,7 +7,7 @@
 .divbox {
     width: 2%;
     height: 20%;
-    padding: 10%;
+    padding: var(--padding-one);     /*<-- esercizio var padding */
     border: 5px solid black;
 }
 

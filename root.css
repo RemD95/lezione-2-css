@@ -1,4 +1,6 @@
  :root {
     /*Colors*/
     --primary-color:#ff0000;
+    /*spacings*/
+    --padding-one : 10%;
 }
