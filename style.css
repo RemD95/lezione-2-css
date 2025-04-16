@@ -7,14 +7,13 @@
 .container{
     width: 100%;
     height: 400px;
-    background-color:blue ;
+    background-color:gold ;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .divbox {
-    border-color: black;
-    width: 50%;
-    height: 50%;
+    width: 150px;
+    height: 150px;
     background-color: aqua;
 }
