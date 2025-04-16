@@ -14,3 +14,13 @@
     height: 150px;
     background-color: black;
 }
+
+#para1{
+    font-size: 7rem;
+}
+#para{
+    font-size: 7em;
+}
+
+/**Analisi:**/
+/*Le differenze che si notano sono principalmente nelle dimensioni del carattere dei due paragrafi.*/
