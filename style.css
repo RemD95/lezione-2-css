@@ -5,10 +5,10 @@
 }
 
 .divbox {
-    width: 2%;
+    width: 20%;
     height: 20%;
-    padding: var(--padding-one);     /*<-- esercizio var padding */
-    border: 5px solid black;
+         /*<-- esercizio var padding */
+    border: 5px solid red;
 }
 
 .pxbox {
@@ -18,11 +18,16 @@
     background-color: black;
 }
 
+.para{
+    font-size: 10px;
+}
 #para1{
     font-size: 7rem;
 }
-#para{
-    font-size: 7em;
+#para2{
+    font-size: 5px;
+    height: 5em;
+    background-color: blue;
 }
 
 .pad{
@@ -33,6 +38,28 @@
 #list1 li{
     display: inline-block;
 }
+
+.para3{
+    width: 50%;
+    height: 400px;
+}
+
+.sone{
+    border: 5px solid blue;
+    background-color: darkgreen;
+    display: inline;
+}
+.stwo{
+    border: 5px solid blue;
+    background-color:darkgreen ;
+    display: inline-block;
+}
+.sthree{
+    border: 5px solid blue;
+    background-color:darkgreen;
+    display: block;
+}
+
 
 /**Analisi:**/
 /*Le differenze che si notano sono principalmente nelle dimensioni del carattere dei due paragrafi.*/
